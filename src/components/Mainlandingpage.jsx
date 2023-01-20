@@ -1,6 +1,8 @@
 import React from 'react'
+import Footer from '../landingpages/Footer'
 import Landingpagebelowtop from '../landingpages/Landingpagebelowtop'
 import Landingpage from '../landingpages/Landingpagetop'
+
 
 const Mainlandingpage = () => {
   return (
@@ -8,6 +10,7 @@ const Mainlandingpage = () => {
         
         <Landingpage/>
    <Landingpagebelowtop/>
+   <Footer/>
     </div>
   )
 }

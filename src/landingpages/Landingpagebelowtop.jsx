@@ -22,7 +22,7 @@ const Landingpagebelowtop = () => {
 
 <Box w="100%" h='75px' bgSize="120%"   bgImage="https://clearcheck.co.uk/wp-content/uploads/2017/09/all-about-access-ni-1.png" >
 
-   <Text pt="25px" fontSize='12px' color="white"  >Mobiles & Tablets</Text>
+   <Text pt="25px" fontSize='15px' color="grey.100"  >Mobiles & Tablets</Text>
    </Box>
 
 
@@ -112,8 +112,8 @@ const Landingpagebelowtop = () => {
    <GridItem w='84%'  h='320px'   >
   <VStack  boxShadow={'2xl'}  h='320px'>
 
-<Box w="100%" h='75px' bgSize="80%"   bgImage="https://clearcheck.co.uk/wp-content/uploads/2017/09/all-about-access-ni-1.png">
-   <Text pt="25px" fontSize='12px' color="white"  >Home & LifeStyle</Text>
+<Box w="100%" h='75px' bgSize="75%"   bgImage="https://media-cdn.tripadvisor.com/media/vr-splice-j/01/5c/6d/a2.jpg">
+   <Text pt="25px" fontSize='15px' color="grey.100"  >Home & LifeStyle</Text>
    </Box>
 
 
@@ -219,9 +219,9 @@ Household items
 <GridItem w='84%'  h='320px'   >
   <VStack  boxShadow={'2xl'}  h='320px'>
 
-<Box w="100%" h='75px' bgSize="120%"   bgImage="https://clearcheck.co.uk/wp-content/uploads/2017/09/all-about-access-ni-1.png" >
+<Box w="100%" h='75px' bgSize="75%"   bgImage="https://www.bangkokcable.com/system/product/images/electronics%20cover.png" >
 
-   <Text pt="25px" fontSize='12px' color="white"  >Electronics & Appliances</Text>
+   <Text pt="25px" fontSize='14px' color="grey.100"  >Electronics & Appliances</Text>
    </Box>
 
 
@@ -246,7 +246,7 @@ Household items
     
    <GridItem  >
   <Text pr={"145px"} fontSize='12px'  >
-   TV-DVD_Multimedia
+   TV-DVD-Multimedia
   </Text>
   </GridItem>
   <GridItem  >

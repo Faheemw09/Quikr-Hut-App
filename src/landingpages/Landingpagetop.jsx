@@ -31,7 +31,7 @@ const Landingpage = () => {
     
 
 >
-<h4 style={{textAlign:"left" ,paddingLeft:"210px",fontSize:"13px",fontFamily:"bold",paddingTop:"9px"}}>Most Popular Products</h4>
+<h2 style={{textAlign:"left" ,paddingLeft:"210px",fontSize:"14px",fontFamily:"bold",paddingTop:"9px"}}>Most Popular Products</h2>
 
 
     <div style={{display:"flex", justifyContent:'space-around',alignItems:"center", borderRadius:"5px" ,height:"130px",marginTop:"10px",width:"860px",border:"1px solid lightgrey",margin:"auto",backgroundColor:"white"}}>
