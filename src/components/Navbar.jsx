@@ -30,6 +30,7 @@ import { MoonIcon, SunIcon,SearchIcon,ChevronDownIcon} from '@chakra-ui/icons';
 
 import Mainlandingpage from './Mainlandingpage';
 import logoauiker from "../images/logoauiker.jpg"
+import ModalSignup from '../landingpages/ModalSignup';
 
 
 // const NavLink = ({ children }: { children: ReactNode }) => (
@@ -65,10 +66,10 @@ export default function Navbar() {
           </InputGroup>
           </Box>
           <Box pl="30px">
-        <Button   width="105px" height="30px" border={"1px solid grey"}>
-            <Text fontSize={"12px"}>
-            Login/Register
-            </Text></Button>
+       
+            
+            <ModalSignup/>
+            
 
           </Box>
 
