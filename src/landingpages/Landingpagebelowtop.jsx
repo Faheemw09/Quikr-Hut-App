@@ -13,7 +13,7 @@ const Landingpagebelowtop = () => {
         {/* *********************************container with 3 divs*********** */}
 
 
-        <Grid templateColumns='repeat(3, 1fr)' width={"1090px"} gap={6} mt="10px" >
+        <Grid templateColumns='repeat(3, 1fr)' width={"1090px"} gap={6} mt="10px"  >
             <Flex pl="190px" w={1090}  gap={6} justifyContent={'space-around'}>
 
                 {/* *************istdiv********** */}
